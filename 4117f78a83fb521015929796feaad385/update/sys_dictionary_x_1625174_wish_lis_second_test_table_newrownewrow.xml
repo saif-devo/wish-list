@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>newrow</column_label>
+        <column_label>newrow2</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -52,13 +52,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-02-20 10:27:27</sys_created_on>
-        <sys_name>newrow</sys_name>
+        <sys_name>newrow2</sys_name>
         <sys_package display_value="wish list2" source="x_1625174_wish_lis">4117f78a83fb521015929796feaad385</sys_package>
         <sys_policy/>
         <sys_scope display_value="wish list2">4117f78a83fb521015929796feaad385</sys_scope>
         <sys_update_name>sys_dictionary_x_1625174_wish_lis_second_test_table_newrownewrow</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-20 10:27:27</sys_updated_on>
+        <sys_updated_on>2025-02-20 10:29:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
