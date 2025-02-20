@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="4890849a83fb521015929796feaad30b" label="second test table" max_length="40" name="x_1625174_wish_lis_second_test_table" type="collection"/>
+    <element db_object_id="4890849a83fb521015929796feaad30b" label="second test table" max_length="40" name="x_1625174_wish_lis_second_test_table" type="collection">
+        <element label="newrow" max_length="40" name="newrownewrow" type="string"/>
+    </element>
 </database>
